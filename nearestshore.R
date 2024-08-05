@@ -1,7 +1,6 @@
 # Nearest shore calculation
 # www.overfitting.net
-# https://www.overfitting.net/
-
+# https://www.overfitting.net/2024/08/calculando-la-orilla-mas-cercana-con-r.html
 
 library(terra)  # read GeoTIFF data
 library(png)  # save 8-bit PNG's
