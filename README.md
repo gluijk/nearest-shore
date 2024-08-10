@@ -1,2 +1,2 @@
 # nearest-shore
-Determining the shortest path to the nearest land from any given location in the ocean
+Determining the shortest path to land from any given location in the ocean
